@@ -49,6 +49,7 @@ section {
 }
 
 h2 {
+    text-align: center;
     font-family: kanit;
     font-style: normal;
     font-weight: 600;
@@ -60,7 +61,11 @@ h2 {
 }
 
 a {
-    color: transparent;
+    color: #596E95;
+    text-decoration: none;
+}
+a:hover{
+    color: cornflowerblue;
 }
 
 p {
@@ -70,11 +75,14 @@ p {
     font-size: 14px;
     /* identical to box height */
     letter-spacing: 0.05em;
-    color: #596E95;
+    color: #728AB7;
     text-shadow: 5px -5px 10px rgba(209, 217, 230, 0.2), 5px 5px 13px rgba(209, 217, 230, 0.9), -5px -5px 10px rgba(255, 255, 255, 0.9), 1px 1px 1px rgba(255, 255, 255, 0.3);
 }
+p:hover{
+    color: cornflowerblue;
+}
 
-button {
+#log-button {
     height: 3.5rem;
     width: 20rem;
     background: #ECF0F3;
@@ -91,6 +99,20 @@ button {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
+    transition: 666ms;
+    font-family: kanit;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    color: #728AB7;
+    text-shadow: 5px -5px 10px rgba(209, 217, 230, 0.2), 5px 5px 13px rgba(209, 217, 230, 0.9), -5px -5px 10px rgba(255, 255, 255, 0.9);
+
+}
+#log-button:hover{
+    background-color: #728AB7;
+    color: #ECF0F3;
 }
 
 button:focus {
