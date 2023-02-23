@@ -4,7 +4,7 @@
 ![Author](https://img.shields.io/badge/author-Nisay-blue.svg)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/YasinDehfuli/Login-Page/.svg?style=social)](https://twitter.com/YasinDehfuli)
 
-Bootstrap 5 , Matrix Portfolio Full Template, Open Source. : )
+Login Form White Mode . : )
 
 <div align="center">
 <img src="LoginWhite.png">
@@ -18,18 +18,17 @@ Download Zip , And use npm install in terminal ... enjoy the project now.
 - [Profile](https://github.com/YasinDehfuli/Classic-Portfolio)
 
 # Features
-- Bootstrap 5.2
-- Bootstrap 5.2 Validation
+- Html Pure
 - Verified by W3C
 - 1 Pages included (index)
 - No custom classes
 - Easy to use
-- Cross-browser compatibility (Chrome, Firefox, Opera, IE11, Safari)
-- Fully responsive
+- Cross-browser compatibility (Chrome, Opera, IE11, Safari)
+- Responsive Mobile
 - and more ...
 
 # Report Some Bugs
-Find a Bug? Please, [create an issue](https://github.com/YasinDehfuli/Classic-Portfolio/issues) and we'll fix it together for a better template.
+Find a Bug? Please, [create an issue](https://github.com/YasinDehfuli/Login-Form-White/issues) and we'll fix it together for a better template.
 
 # Contribution
 Contribution are always welcome and recommended! Here is how:
